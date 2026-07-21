@@ -29,7 +29,6 @@ See the English user manual included with each release.
 ## Availability
 
 The compiled software is publicly available for research evaluation.
-The source code is not publicly released.
 
 ## Disclaimer
 
