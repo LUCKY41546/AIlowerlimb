@@ -87,7 +87,7 @@ The software does not automatically anonymize DICOM metadata, filenames, JSON fi
 
 The compiled Windows application is publicly available for academic research and software evaluation.
 
-The source code and model-training code are not included in this release. Therefore, the application should be described as publicly available compiled software rather than open-source software.
+The source code and model-training code are not included in this release. For access inquiries, please contact the author.
 
 ## Disclaimer
 
